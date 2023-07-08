@@ -29,8 +29,6 @@ This repository includes the following resources:
 
 - `web/`: Includes the web content files, HTML templates, CSS stylesheets, and other static resources.
 
-- `web/WEB-INF/`: Contains the web.xml configuration file that defines servlet mappings and other configuration settings.
-
 - `README.md`: Provides an overview of the project and instructions on getting started.
 
 ## Contribution
