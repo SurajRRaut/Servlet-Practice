@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+div {
+	height: 100vh;
+    width: 100%;
+    background-color: rgb(86,61,124);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content : center;
+    flex-direction: column;
+}
+input{
+	text-align:center;
+	
+}
